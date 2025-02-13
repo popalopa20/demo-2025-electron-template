@@ -6,7 +6,7 @@ export default async () => {
     password: '219219',
     host: 'localhost',
     port: '5432',
-    database: 'demo_2025',
+    database: 'demo2025',
   });
 
   await client.connect();
